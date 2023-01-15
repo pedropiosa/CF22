@@ -1,0 +1,10 @@
+{
+  "process_name": "frontfile",
+  "input_path": "resources/frontfile/xml/xml22_13_2k",
+  "input_format": "com.databricks.spark.xml",
+  "input_root_tag": "ops:world-patent-data",
+  "input_row_tag": "exchange-document",
+  "output_format": "csv",
+  "output_path": "output/frontfile/xml/prueba2",
+  "write_mode": "overwrite"
+}

@@ -1,0 +1,10 @@
+{
+    "process_name": "pattern",
+    "input_front_path": "output/frontfile/xml/xml22_13_2k",
+    "input_textdata_path": "output/textdata/proc/EP39_36",
+    "input_front_format": "csv",
+    "input_textdata_format": "csv",
+    "output_path": "output/pattern/proc/EP39_36xml22_13_2k",
+    "output_format": "csv",
+    "write_mode": "overwrite"
+}

@@ -1,0 +1,9 @@
+{
+    "process_name": "textdata",
+    "input_path": "resources/textdata/txt/EP39_36",
+    "input_format": "csv",
+    "input_cols": ["Entity", "EPNumber", "Type", "Date", "Lang", "Section", "Published", "Detail"],
+    "output_path": "output/textdata/proc/EP39_36",
+    "output_format": "csv",
+    "write_mode": "overwrite"
+}

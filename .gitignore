@@ -1,0 +1,100 @@
+
+### Intellij ###
+.idea/
+baselinefiles/
+out/
+*.iml
+modules.xml
+*.ipr
+
+# File-based project format
+*.iws
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+### Scala ###
+*.class
+*.log
+target/
+project/target/
+project/project/
+
+# scalastyle
+scalastyle-config.xml
+
+# mac os x
+.DS_Store
+
+spark-warehouse/
+
+
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
+
+# Visual Studio Code
+.vscode
+
+# Rider
+.idea
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+#local
+toolbox/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+dist/
+coverage/
+*.egg-info/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Pp]roperties/
+[Ll]og/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio 2015
+.vs/
+.venv
+
+*.jar
+
+junit/mypy-validation.xml
+
+requirements.txt
+junit/unit-test.xml
+.coverage*
+*table_properties_config_file.json
+.env
+.pypirc
+
+__azurite_db*
+test-output.xml
+junit/test-results.xml
+
+Pipfile.lock
+
+**/output
+**/resources

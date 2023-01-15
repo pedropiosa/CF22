@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyspark = "==3.2.1"
+spacy = "==3.4"
+
+[dev-packages]
+pydevd-pycharm = "==223.7571.203"
+
+[requires]
+pyspark = "==3.2.1"
+spacy = "==3.4"

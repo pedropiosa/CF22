@@ -1,0 +1,12 @@
+{
+    "process_name": "greenplastics",
+    "input_proc_path":"output/pattern/proc/EP29_27xml22_13_2k",
+    "input_proc_format":"csv",
+    "input_find_path":"output/pattern/find/finds700_total_clean_sinDecimales.csv",
+    "input_find_format":"csv",
+    "input_cols":[],
+    "output_path":"output/pattern/green/EP29_27xml22_13_2k_prueba",
+    "output_format":"csv",
+    "output_cols":["Descr", "greenPlastic"],
+    "write_mode":"overwrite"
+}
